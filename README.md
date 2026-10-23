@@ -16,7 +16,7 @@ Je suis spécialisé en **Analyse de Données**, **Business Intelligence** et **
 | Projet | Description & KPIs Clés | Lien |
 | :--- | :--- | :--- |
 | **🛒 Kin-Marché** | Analyse du CA (900M€), des profits (332M€) et de la rentabilité (42%) par canaux et régions | [Voir le projet](./nom-du-depot-kin-marche) |
-| **📊 Rapport de Ventes US** | Suivi des ventes (172M€), analyse de tendance annuelle (+15%) et cartographie | [Voir le projet](./nom-du-depot-analyse-ventes) |
+| **📊 Rapport de Ventes US** | Suivi des ventes (172M€), analyse de tendance annuelle (+15%) et cartographie | [Voir le projet](https://github.com/Pakyendou/Power_BI_Analysis) |
 
 ---
 
